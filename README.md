@@ -3,7 +3,7 @@ so the FAT32 file can have the correct created-on time.
 The SD card slot is connected to Pico pins GP16-GP19.
 
 example output file "09230624.csv"
-
+```
 epoch,degC,RH
 # START: 2026-09-23 06:24:31
 1790144680,23.46,68.68
@@ -19,3 +19,4 @@ epoch,degC,RH
 1790144780,23.52,66.80
 1790144790,23.53,66.74
 1790144800,23.54,66.84
+```
